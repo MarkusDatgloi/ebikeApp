@@ -1,6 +1,6 @@
 # ebikeApp
 An app allowing Garmin watches to show information about a Shimano STEPS ebike.
-This project is a simple app for Garmin watches, built using Garmin Connect IQ (CIQ).
+This project is a simple app for Garmin watches, build using Garmin Connect IQ (CIQ).
 
 This project was derived from Mark.Ai's project at https://github.com/markdotai/emtb which is released 
 in the Garmin app store here: https://apps.garmin.com/en-US/apps/461743f9-b350-486f-bd87-613c7b0bab90.
@@ -17,7 +17,7 @@ The result is that the app connects over BLE with the ebike but data is not exch
 This app will display an error message "ErrPrf_1" or "ErrPrf_2" where 1 and 2 are the failed number of registreations.
 See the bug report and status at: https://forums.garmin.com/developer/connect-iq/i/bug-reports/vivoactive-4-bledelegate-onprofileregister-returns-status-value-2-on-every-2nd-and-3rd-registerprofile
 
-This app is will be released in the Garmin app store.
+This app will be released in the Garmin app store.
 
 When you start developing for Garmin Connect IQ then don't forget to read this page:
 https://forums.garmin.com/developer/connect-iq/w/wiki/4/new-developer-faq .
