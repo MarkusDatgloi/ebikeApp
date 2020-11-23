@@ -1,0 +1,5 @@
+<layout id="MainLayout">
+	<drawable  class="ebikeBatteryLevel" />
+    <label x="center" y="30" text="@Strings.Name" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="prompt" x="center" y="center" text="@Strings.prompt" font="Graphics.FONT_SYSTEM_LARGE" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+</layout>

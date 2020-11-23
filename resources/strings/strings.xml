@@ -1,0 +1,27 @@
+<strings>
+    <string id="AppName">STEPS EBIKE Data</string>
+    <string id="Name">Ebike</string>
+    
+    <string id="LastMACTitle">Last EBIKE MAC Address</string>
+    <string id="LastLockTitle">Lock to MAC Address</string>
+    <string id="LabelTitle">Label</string>
+    <string id="Item1Title">Item 1</string>
+    <string id="Item2Title">Item 2</string>
+    <string id="Item3Title">Item 3</string>
+
+    <string id="ShowOff">Off</string>
+    <string id="ShowBattery">Battery</string>
+    <string id="ShowModeName">Mode Name</string>
+    <string id="ShowModeLetter">Mode Letter</string>
+    <string id="ShowModeNumber">Mode Number</string>
+    <string id="ShowGear">Gear</string>
+    
+    <string id="BatLvlGreenTitle">Battery level GREEN: 100% to ..%</string>
+    <string id="BatLvlYellowTitle">Battery level YELLOW: until ..%</string>
+    <string id="BatLvlRedTitle">Battery level RED: until ..%</string>
+        
+    <string id="prompt">Click the menu button</string>
+    <string id="menu_label_1">Max 25 km/h</string>
+    <string id="menu_label_2">Max 32 km/h</string>
+    <string id="NoGo">NoGo 4 Now</string>
+</strings>
