@@ -12,8 +12,6 @@
     <string id="ShowOff">Off</string>
     <string id="ShowBattery">Battery</string>
     <string id="ShowModeName">Mode Name</string>
-    <string id="ShowModeLetter">Mode Letter</string>
-    <string id="ShowModeNumber">Mode Number</string>
     <string id="ShowGear">Gear</string>
     
     <string id="BatLvlGreenTitle">Battery level GREEN: 100% to ..%</string>
